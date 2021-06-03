@@ -1,4 +1,5 @@
 # Redteam_Capstone
+
 In this project I put to practice our class penetration testing skills.
 
 I performed a Red Team attack into a vulnerable system. The ELK server logged the activity information, which the Blue Team reviewed through Kibana.
