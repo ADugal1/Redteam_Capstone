@@ -1,4 +1,4 @@
-# Redteam_Capstone
+# Red team_Capstone
 
 In this project I put to practice our class penetration testing skills.
 
